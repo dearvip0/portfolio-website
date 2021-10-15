@@ -145,8 +145,8 @@ export const projects: IProject[] = [
   },
   {
     id: 5,
-    name: "Tweeter Clone",
-    image_path: "/images/tweetme.jpg",
+    name: "Shopping-cart",
+    image_path: "/images/store.jpg",
     deployed_url: "",
     github_url: "https://github.com/dearvip0/react-shopping-cart",
     category: ["react"],
