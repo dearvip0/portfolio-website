@@ -127,7 +127,7 @@ export const projects: IProject[] = [
     name: "My Portfolio",
     image_path: "/images/my-portfolio.png",
     deployed_url: "",
-    github_url: "https://github.com/Dey-Sumit/Dev-talks",
+    github_url: "https://portfolio-bao-thuong.vercel.app/",
     category: ["react"],
     description: "Hey, You are seeing this project now...Enjoy",
     key_techs: ["Next"],
